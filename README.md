@@ -1,1 +1,1 @@
-# US-Keyboard-Translator
+# Windows-US-Keyboard-Translator
